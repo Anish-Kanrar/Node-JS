@@ -1,0 +1,40 @@
+//Version
+
+4.21.1
+
+1st Part -> 4
+2nd Part -> 21
+3rd Part -> 1
+
+//3rd part (Last Part) - Minor Fixes (Optional)
+Latest -> 4.21.2 
+
+//2nd part - Recommended Bug Fix (Security Fix)
+Latest -> 4.22.1
+
+//1st part - Major Realse -Major / Breaking Update
+5
+
+express = ^4.18.2
+4th Version
+
+^4.18.2 | 4.18.2 -> < 5.0.0 
+
+^4.17.9
+4.18.1
+4.18.2
+4.18.3
+4.18.4
+4.19.1
+
+5.1.0
+
+^ - Install all Recommended and Minor Fixes Automatically
+
+~
+~4.18.1
+4.18.2
+4.18.3
+4.18.4
+
+4.19.1 -No
