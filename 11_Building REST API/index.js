@@ -59,6 +59,7 @@ app.patch("/api/users/:id", (req, res) => {
     //TODO: Edit the user with id
     return res.json({ status: "panding" });
 })
+
 app.delete("/api/users/:id", (req, res) => {
     //TODO: Edit the user with id
     return res.json({ status: "panding" });
