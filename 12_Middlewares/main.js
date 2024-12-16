@@ -17,7 +17,6 @@ app.use((req, res, next) =>{
 
 app.use((req, res, next) =>{
   console.log(`${Date.now()} is a ${req.method}`)
- 
   next()
 })
 
