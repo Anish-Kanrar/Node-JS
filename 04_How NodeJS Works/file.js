@@ -5,7 +5,6 @@ const os = require("os")
 // cpu cores =>
 console.log(os.cpus().length);  //8
 
-
 //Booking :
 console.log("1");
 const result = fs.readFileSync("test.txt","utf-8");
