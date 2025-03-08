@@ -1,6 +1,5 @@
 const math = require("./math");
 
-
 // getting the functions by object destructuring =>
 //const {add,sub,mul,div,mod} = require("./math")
 
